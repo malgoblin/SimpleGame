@@ -1,0 +1,34 @@
+{
+	"Weapon": [
+		{
+			"Name": "Sword",
+			"Buy_Cost": 5,
+			"Sell_Cost": 5,
+			"Weight": 5,
+			"Damage": 5
+		},
+		{
+			"Name": "Axe",
+			"Buy_Cost": 4,
+			"Sell_Cost": 4,
+			"Weight": 4,
+			"Damage": 4
+		}
+	],
+	"Armor": [
+		{
+			"Name": "Plate",
+			"Buy_Cost": 5,
+			"Sell_Cost": 5,
+			"Weight": 5,
+			"Damage": 5
+		},
+		{
+			"Name": "Leather Armor",
+			"Buy_Cost": 4,
+			"Sell_Cost": 4,
+			"Weight": 4,
+			"Damage": 4
+		}
+	]
+}
